@@ -2,3 +2,9 @@ CrystFEL unit cell file version 1.0
 
 lattice_type = orthorhombic
 centering = C
+a = 61.40 A
+b = 122.6 A
+c = 168.0 A
+al = 90 deg
+be = 90 deg
+ga = 90 deg
